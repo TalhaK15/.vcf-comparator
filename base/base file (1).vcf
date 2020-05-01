@@ -1,0 +1,7 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Dummy
+ORG:Dummy;
+TITLE:Dummy
+EMAIL;type=INTERNET;type=WORK;type=pref:dummy@dummy.dummy
+END:VCARD
